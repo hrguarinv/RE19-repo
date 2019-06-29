@@ -13,3 +13,5 @@ This repository contains the instrumentation of the controlled experiment that w
 * Defect reporting form. This form was used by participants to record the start and end time of the inspection, as well as the defects by location, type and description. The defect reporting form for the experimental group was the one generated for applying the reading technique.
 
 In addition, this repository contains the results of the controlled experiments for any validation procedure.
+
+In order to make available the experiment package with all the instruments and the results, we followed open science policies that are available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3260328.svg)](https://doi.org/10.5281/zenodo.3260328)
