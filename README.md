@@ -10,7 +10,13 @@ This repository contains the instrumentation of the controlled experiment that w
 
 * Task description. This description explains the participants about the received material and asks them to conduct the review according to their treatment, filling out the defect reporting form. Both treatments received the same requirements specification. For one treatment, the reading technique was generated according to the user story description and its related OWASP highlevel security requirements. For the other treatment the list of OWASP security properties and their related high-level security requirements was provided together with the description of the defect types to be located.
 
-* Defect reporting form. This form was used by participants to record the start and end time of the inspection, as well as the defects by location, type and description. The defect reporting form for the experimental group was the one generated for applying the reading technique, similar to the one shown in Table 5.10.
+* Defect reporting form. This form was used by participants to record the start and end time of the inspection, as well as the defects by location, type and description. The defect reporting form for the experimental group was the one generated for applying the reading technique.
+
+The artifacts were organized in 3 phases. This depends on the phase where the artifact is used.
+
+* Pre-experiment
+* Experiment
+* Post-experiment
 
 In addition, this repository contains the results of the controlled experiments for any validation procedure.
 
